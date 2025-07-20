@@ -17,7 +17,7 @@ PinLock - это JavaScript библиотека для защиты веб-са
 Добавьте скрипт библиотеки перед закрывающим тегом `</body>`:
 
 ```html
-<script src="pin-lock-library.js"></script>
+<script src="PinLock.js"></script>
 ```
 
 ### 2. Проверка загрузки
